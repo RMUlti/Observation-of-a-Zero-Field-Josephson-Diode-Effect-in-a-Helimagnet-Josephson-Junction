@@ -1,0 +1,6 @@
+Started: April 10, 2024 11:24:31
+Resistor	1000000.0	Excitation Current (A)	5e-08
+Restsitance (Ohms)	Channel 5 Temp (K)	Channel 8 Temp (K)	Channel 13 Temp (K)
+2.78234	321.65	0.0194155	4.09725
+2.9232	321.65	0.0194155	4.09725
+2.80038	321.65	0.0194155	4.09725

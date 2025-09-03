@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImageMetadata>
+  <Information>
+    <Document>
+      <UserName>arbeach2</UserName>
+    </Document>
+    <Image>
+      <SizeX>1177</SizeX>
+      <SizeY>883</SizeY>
+      <PixelType>Bgr24</PixelType>
+      <ComponentBitCount>8</ComponentBitCount>
+      <Dimensions>
+        <Channels>
+          <Channel Id="Channel:0">
+            <PixelType>Bgr24</PixelType>
+            <ComponentBitCount>8</ComponentBitCount>
+          </Channel>
+        </Channels>
+        <T>
+          <StartTime>0001-01-01T00:00:00</StartTime>
+        </T>
+      </Dimensions>
+    </Image>
+  </Information>
+  <Scaling>
+    <AutoScaling>
+      <Type>Theoretic</Type>
+      <Objective>100 x</Objective>
+      <OptovarMagnification>1</OptovarMagnification>
+      <CameraName>AxioCam ERc5s</CameraName>
+      <CameraAdapterMagnification>0.4</CameraAdapterMagnification>
+      <CameraPixelDistance>2.2,2.2</CameraPixelDistance>
+      <CreationDateTime>05/06/2022 19:55:28</CreationDateTime>
+    </AutoScaling>
+    <Items>
+      <Distance Id="X">
+        <Value>1.1962410192205482E-07</Value>
+        <DefaultUnitFormat>µm</DefaultUnitFormat>
+      </Distance>
+      <Distance Id="Y">
+        <Value>1.1962410192205482E-07</Value>
+        <DefaultUnitFormat>µm</DefaultUnitFormat>
+      </Distance>
+    </Items>
+  </Scaling>
+  <DisplaySetting>
+    <Channels>
+      <Channel Id="Channel:0" Name="C1">
+        <BitCountRange>8</BitCountRange>
+        <DyeName>Dye1</DyeName>
+        <ColorMode>None</ColorMode>
+      </Channel>
+    </Channels>
+  </DisplaySetting>
+  <Layers>
+    <Layer>
+      <Usage>Selection</Usage>
+      <IsProtected>false</IsProtected>
+      <LayerFlags>1</LayerFlags>
+      <Elements>
+        <RectRoi Id="13">
+          <Attributes>
+            <FontSize>22.0691312</FontSize>
+            <StrokeThickness>1</StrokeThickness>
+            <StrokeZoomWithImage>true</StrokeZoomWithImage>
+            <CanMeasureEnable>false</CanMeasureEnable>
+          </Attributes>
+          <Geometry>
+            <Left>218.35793066666673</Left>
+            <Top>161.89161599999994</Top>
+            <Width>80</Width>
+            <Height>86</Height>
+          </Geometry>
+        </RectRoi>
+      </Elements>
+    </Layer>
+  </Layers>
+</ImageMetadata>
